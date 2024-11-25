@@ -1,0 +1,5 @@
+AIzaSyCqKOnasTtpp3lHi5gfcjQwCQKx7s2Opg8
+User BD: mariomrcabral   senha: tkxDeYdCXsHEiKD1
+
+npm install mongodb
+mongodb+srv://mariomrcabral:tkxDeYdCXsHEiKD1@cluster0.qv1z7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
